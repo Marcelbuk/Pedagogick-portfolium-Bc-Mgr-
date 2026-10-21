@@ -1,7 +1,6 @@
 Pedagogické portfolio <br>
 Magisterské studium <br>
-Bc. Lucie Bryndová (D41758) <br>
+Bc. Marcel Bukač (D260909) <br>
 Katedra technické a informační výchovy <br>
+Obor: UITma-UMmi
 Pedagogická fakulta, UPOL
-
-__Zde budou vaše vlastní údaje__
